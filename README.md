@@ -1,2 +1,2 @@
 # Java-Revisions
-Topics of java which i m revising 
+A code repository for Java's Revision
